@@ -1,0 +1,17 @@
+1. Category='Diploma Lanjutan', Name='Diploma Lanjutan Kebidanan', Intake2014=1110, Intake2015=1148, Intake2016=962, Intake2017=1175, Intake2018=1203, Intake2019=1000
+2. Category='Diploma Lanjutan', Name='Diploma Lanjutan Penjagaan Rapi', Intake2014=147, Intake2015=130, Intake2016=119, Intake2017=132, Intake2018=130, Intake2019=113
+3. Category='Diploma Lanjutan', Name='Diploma Lanjutan Perawatan Perioperatif', Intake2014=160, Intake2015=138, Intake2016=104, Intake2017=147, Intake2018=133, Intake2019=120
+4. Category='Diploma Lanjutan', Name='Diploma Lanjutan Kesihatan Kardiovascular', Intake2014=136, Intake2015=111, Intake2016=107, Intake2017=110, Intake2018=129, Intake2019=126
+5. Category='Diploma Lanjutan', Name='Diploma Lanjutan Perawatan Onkologi', Intake2014=54, Intake2015=0, Intake2016=50, Intake2017=47, Intake2018=55, Intake2019=54
+6. Category='Diploma Lanjutan', Name='Diploma Lanjutan Perawatan Gerontologi', Intake2014=25, Intake2015=11, Intake2016=19, Intake2017=21, Intake2018=25, Intake2019=57
+7. Category='Diploma Lanjutan', Name='Diploma Lanjutan Sitologi', Intake2014=24, Intake2015=14, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=20
+8. Category='Diploma Lanjutan', Name='Diploma Lanjutan Transfusi Darah', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=38, Intake2018=0, Intake2019=0
+9. Category='Diploma Lanjutan', Name='Diploma Lanjutan Histopatologi', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=14, Intake2018=0, Intake2019=0
+10. Category='Diploma Lanjutan', Name='Diploma Lanjutan Pengimejan Perubatan (Payudara)', Intake2014=0, Intake2015=16, Intake2016=11, Intake2017=11, Intake2018=0, Intake2019=12
+11. Category='Diploma Lanjutan', Name='Diploma Lanjutan Haematologi', Intake2014=27, Intake2015=23, Intake2016=0, Intake2017=0, Intake2018=20, Intake2019=0
+12. Category='Diploma Lanjutan', Name='Diploma Lanjutan Penjagaan Paliatif', Intake2014=17, Intake2015=20, Intake2016=18, Intake2017=18, Intake2018=17, Intake2019=18
+13. Category='Diploma Lanjutan', Name='Diploma Lanjutan Perawatan Kesihatan Mental', Intake2014=77, Intake2015=67, Intake2016=61, Intake2017=83, Intake2018=96, Intake2019=98
+14. Category='Diploma Lanjutan', Name='Diploma Lanjutan Penjagaan Kecemasan', Intake2014=526, Intake2015=535, Intake2016=395, Intake2017=235, Intake2018=377, Intake2019=354
+15. Category='Diploma Lanjutan', Name='Diploma Lanjutan Pengurusan Penjagaan Kesihatan', Intake2014=39, Intake2015=35, Intake2016=0, Intake2017=14, Intake2018=14, Intake2019=17
+16. Category='Diploma Lanjutan', Name='Diploma Lanjutan Penjagaan Respiratori', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=27, Intake2018=18, Intake2019=14
+17. Category='Diploma Lanjutan', Name='Diploma Lanjutan Rehabilitasi Neuro', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=25, Intake2019=5
