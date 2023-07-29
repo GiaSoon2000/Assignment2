@@ -11,20 +11,8 @@ public class DiplomaData {
         this.intakes = intakes;
     }
 
-    public int getBil() {
-        return bil;
-    }
-
     public String getCategory() {
         return category;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public int[] getIntakes() {
-        return intakes;
     }
 
     public int getTotal() {
@@ -54,7 +42,20 @@ public class DiplomaData {
 
     @Override
     public String toString() {
-        return String.format("%d. Category='%s', Name='%s', Intake2014=%d, Intake2015=%d, Intake2016=%d, Intake2017=%d, Intake2018=%d, Intake2019=%d",
-                bil,category, name, intakes[0], intakes[1], intakes[2], intakes[3], intakes[4], intakes[5]);
+        int total = getTotal();
+        int max = getMax();
+        int min = getMin();
+        return String.format("%d. Category='%s', Name='%s', Total=%d, Max=%d, Min=%d",
+                bil,category, name, total, max, min);
     }
+
+//    This will display all the data including intake of each year.
+//    @Override
+//    public String toString() {
+//        int total = getTotal();
+//        int max = getMax();
+//        int min = getMin();
+//        return String.format("%d. Category='%s', Name='%s', Intake2014=%d, Intake2015=%d, Intake2016=%d, Intake2017=%d, Intake2018=%d, Intake2019=%d, Total=%d, Max=%d, Min=%d",
+//                bil,category, name, intakes[0], intakes[1], intakes[2], intakes[3], intakes[4], intakes[5], total, max, min);
+//    }
 }

@@ -1,45 +1,45 @@
-18. Category='Kursus Pengkhususan', Name='Perawatan Renal/ Nefrologi', Intake2014=331, Intake2015=381, Intake2016=358, Intake2017=371, Intake2018=366, Intake2019=350
-19. Category='Kursus Pengkhususan', Name='Kejururawatan Kesihatan Awam', Intake2014=265, Intake2015=321, Intake2016=326, Intake2017=263, Intake2018=253, Intake2019=206
-20. Category='Kursus Pengkhususan', Name='Perawatan Pediatrik', Intake2014=283, Intake2015=246, Intake2016=241, Intake2017=228, Intake2018=260, Intake2019=182
-21. Category='Kursus Pengkhususan', Name='Perawatan Ortopedik', Intake2014=247, Intake2015=248, Intake2016=206, Intake2017=200, Intake2018=249, Intake2019=243
-22. Category='Kursus Pengkhususan', Name='Perawatan Neonat', Intake2014=187, Intake2015=187, Intake2016=140, Intake2017=140, Intake2018=237, Intake2019=224
-23. Category='Kursus Pengkhususan', Name='Pengurusan Diabetis', Intake2014=143, Intake2015=147, Intake2016=142, Intake2017=233, Intake2018=224, Intake2019=145
-24. Category='Kursus Pengkhususan', Name='Kawalan Infeksi', Intake2014=174, Intake2015=143, Intake2016=154, Intake2017=176, Intake2018=176, Intake2019=164
-25. Category='Kursus Pengkhususan', Name='Perawatan Oftalmik', Intake2014=57, Intake2015=62, Intake2016=58, Intake2017=47, Intake2018=66, Intake2019=80
-26. Category='Kursus Pengkhususan', Name='Penjagaan Kesihatan Primer', Intake2014=76, Intake2015=57, Intake2016=52, Intake2017=56, Intake2018=77, Intake2019=109
-27. Category='Kursus Pengkhususan', Name='Perawatan Perianestesia', Intake2014=118, Intake2015=150, Intake2016=104, Intake2017=111, Intake2018=154, Intake2019=136
-28. Category='Kursus Pengkhususan', Name='Pengurusan Makmal', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-29. Category='Kursus Pengkhususan', Name='Perawatan Neurosains', Intake2014=46, Intake2015=48, Intake2016=48, Intake2017=47, Intake2018=63, Intake2019=32
-30. Category='Kursus Pengkhususan', Name='Perawatan Otorinolaringologi', Intake2014=50, Intake2015=40, Intake2016=39, Intake2017=30, Intake2018=49, Intake2019=54
-31. Category='Kursus Pengkhususan', Name='Perubatan Sukan', Intake2014=31, Intake2015=25, Intake2016=0, Intake2017=10, Intake2018=50, Intake2019=31
-32. Category='Kursus Pengkhususan', Name='Gastrointestinal Endoscopy', Intake2014=74, Intake2015=51, Intake2016=54, Intake2017=83, Intake2018=99, Intake2019=85
-33. Category='Kursus Pengkhususan', Name='Penyiasatan & Pendakwaan Undang-Undang', Intake2014=10, Intake2015=16, Intake2016=12, Intake2017=12, Intake2018=11, Intake2019=19
-34. Category='Kursus Pengkhususan', Name='Perawatan Rehabilitasi', Intake2014=30, Intake2015=39, Intake2016=46, Intake2017=48, Intake2018=52, Intake2019=50
-35. Category='Kursus Pengkhususan', Name='Rawatan Ortodontik', Intake2014=0, Intake2015=26, Intake2016=0, Intake2017=0, Intake2018=26, Intake2019=25
-36. Category='Kursus Pengkhususan', Name='Kesihatan Persekitaran', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-37. Category='Kursus Pengkhususan', Name='Anaesthesia', Intake2014=0, Intake2015=6, Intake2016=14, Intake2017=12, Intake2018=7, Intake2019=18
-38. Category='Kursus Pengkhususan', Name='Rawatan Peridontik', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=22, Intake2018=0, Intake2019=0
-39. Category='Kursus Pengkhususan', Name='Kaunseling HIV/AIDS', Intake2014=44, Intake2015=14, Intake2016=15, Intake2017=65, Intake2018=86, Intake2019=98
-40. Category='Kursus Pengkhususan', Name='Pembedahan Mulut (Maksilofasial)', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-41. Category='Kursus Pengkhususan', Name='Kesihatan & Keselamatan Pekerja', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-42. Category='Kursus Pengkhususan', Name='Mikrobiologi Perubatan', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=20
-43. Category='Kursus Pengkhususan', Name='Penjagaan Pergigian Pediatrik', Intake2014=0, Intake2015=0, Intake2016=25, Intake2017=0, Intake2018=0, Intake2019=0
-44. Category='Kursus Pengkhususan', Name='Hemeostasis', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-45. Category='Kursus Pengkhususan', Name='Sediaan Farmaseutikal Steril', Intake2014=19, Intake2015=18, Intake2016=10, Intake2017=18, Intake2018=0, Intake2019=16
-46. Category='Kursus Pengkhususan', Name='Patologi Kimia', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-47. Category='Kursus Pengkhususan', Name='Neurofisiologi Klinikal', Intake2014=0, Intake2015=10, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-48. Category='Kursus Pengkhususan', Name='Tomografi Berkomputer', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=48, Intake2019=31
-49. Category='Kursus Pengkhususan', Name='Forensik', Intake2014=10, Intake2015=16, Intake2016=11, Intake2017=0, Intake2018=18, Intake2019=17
-50. Category='Kursus Pengkhususan', Name='Parasitologi', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-51. Category='Kursus Pengkhususan', Name='Muskulo - Skeletal', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-52. Category='Kursus Pengkhususan', Name='Keselamatan & Kebersihan Makanan', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-53. Category='Kursus Pengkhususan', Name='Prostesis Maksilofasial', Intake2014=16, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-54. Category='Kursus Pengkhususan', Name='Perancangan Terapi Pancaran', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-55. Category='Kursus Pengkhususan', Name='Bioteknologi', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-56. Category='Kursus Pengkhususan', Name='Cytogenetics', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-57. Category='Kursus Pengkhususan', Name='Epidemiologi dan Kawalan Penyakit', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=18
-58. Category='Kursus Pengkhususan', Name='Kardiopulmonari Fisioterapi', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-59. Category='Kursus Pengkhususan', Name='Neurologi Fisioterapi', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=0
-60. Category='Kursus Pengkhususan', Name='Penjagaan Dermatologi', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=23, Intake2019=36
-61. Category='Kursus Pengkhususan', Name='Penjagaan Luka', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=30
-62. Category='Kursus Pengkhususan', Name='Penjagaan Reumatologi', Intake2014=0, Intake2015=0, Intake2016=0, Intake2017=0, Intake2018=0, Intake2019=14
+18. Category='Kursus Pengkhususan', Name='Perawatan Renal/ Nefrologi', Total=2157, Max=381, Min=331
+19. Category='Kursus Pengkhususan', Name='Kejururawatan Kesihatan Awam', Total=1634, Max=326, Min=206
+20. Category='Kursus Pengkhususan', Name='Perawatan Pediatrik', Total=1440, Max=283, Min=182
+21. Category='Kursus Pengkhususan', Name='Perawatan Ortopedik', Total=1393, Max=249, Min=200
+22. Category='Kursus Pengkhususan', Name='Perawatan Neonat', Total=1115, Max=237, Min=140
+23. Category='Kursus Pengkhususan', Name='Pengurusan Diabetis', Total=1034, Max=233, Min=142
+24. Category='Kursus Pengkhususan', Name='Kawalan Infeksi', Total=987, Max=176, Min=143
+25. Category='Kursus Pengkhususan', Name='Perawatan Oftalmik', Total=370, Max=80, Min=47
+26. Category='Kursus Pengkhususan', Name='Penjagaan Kesihatan Primer', Total=427, Max=109, Min=52
+27. Category='Kursus Pengkhususan', Name='Perawatan Perianestesia', Total=773, Max=154, Min=104
+28. Category='Kursus Pengkhususan', Name='Pengurusan Makmal', Total=0, Max=0, Min=0
+29. Category='Kursus Pengkhususan', Name='Perawatan Neurosains', Total=284, Max=63, Min=32
+30. Category='Kursus Pengkhususan', Name='Perawatan Otorinolaringologi', Total=262, Max=54, Min=30
+31. Category='Kursus Pengkhususan', Name='Perubatan Sukan', Total=147, Max=50, Min=0
+32. Category='Kursus Pengkhususan', Name='Gastrointestinal Endoscopy', Total=446, Max=99, Min=51
+33. Category='Kursus Pengkhususan', Name='Penyiasatan & Pendakwaan Undang-Undang', Total=80, Max=19, Min=10
+34. Category='Kursus Pengkhususan', Name='Perawatan Rehabilitasi', Total=265, Max=52, Min=30
+35. Category='Kursus Pengkhususan', Name='Rawatan Ortodontik', Total=77, Max=26, Min=0
+36. Category='Kursus Pengkhususan', Name='Kesihatan Persekitaran', Total=0, Max=0, Min=0
+37. Category='Kursus Pengkhususan', Name='Anaesthesia', Total=57, Max=18, Min=0
+38. Category='Kursus Pengkhususan', Name='Rawatan Peridontik', Total=22, Max=22, Min=0
+39. Category='Kursus Pengkhususan', Name='Kaunseling HIV/AIDS', Total=322, Max=98, Min=14
+40. Category='Kursus Pengkhususan', Name='Pembedahan Mulut (Maksilofasial)', Total=0, Max=0, Min=0
+41. Category='Kursus Pengkhususan', Name='Kesihatan & Keselamatan Pekerja', Total=0, Max=0, Min=0
+42. Category='Kursus Pengkhususan', Name='Mikrobiologi Perubatan', Total=20, Max=20, Min=0
+43. Category='Kursus Pengkhususan', Name='Penjagaan Pergigian Pediatrik', Total=25, Max=25, Min=0
+44. Category='Kursus Pengkhususan', Name='Hemeostasis', Total=0, Max=0, Min=0
+45. Category='Kursus Pengkhususan', Name='Sediaan Farmaseutikal Steril', Total=81, Max=19, Min=0
+46. Category='Kursus Pengkhususan', Name='Patologi Kimia', Total=0, Max=0, Min=0
+47. Category='Kursus Pengkhususan', Name='Neurofisiologi Klinikal', Total=10, Max=10, Min=0
+48. Category='Kursus Pengkhususan', Name='Tomografi Berkomputer', Total=79, Max=48, Min=0
+49. Category='Kursus Pengkhususan', Name='Forensik', Total=72, Max=18, Min=0
+50. Category='Kursus Pengkhususan', Name='Parasitologi', Total=0, Max=0, Min=0
+51. Category='Kursus Pengkhususan', Name='Muskulo - Skeletal', Total=0, Max=0, Min=0
+52. Category='Kursus Pengkhususan', Name='Keselamatan & Kebersihan Makanan', Total=0, Max=0, Min=0
+53. Category='Kursus Pengkhususan', Name='Prostesis Maksilofasial', Total=16, Max=16, Min=0
+54. Category='Kursus Pengkhususan', Name='Perancangan Terapi Pancaran', Total=0, Max=0, Min=0
+55. Category='Kursus Pengkhususan', Name='Bioteknologi', Total=0, Max=0, Min=0
+56. Category='Kursus Pengkhususan', Name='Cytogenetics', Total=0, Max=0, Min=0
+57. Category='Kursus Pengkhususan', Name='Epidemiologi dan Kawalan Penyakit', Total=18, Max=18, Min=0
+58. Category='Kursus Pengkhususan', Name='Kardiopulmonari Fisioterapi', Total=0, Max=0, Min=0
+59. Category='Kursus Pengkhususan', Name='Neurologi Fisioterapi', Total=0, Max=0, Min=0
+60. Category='Kursus Pengkhususan', Name='Penjagaan Dermatologi', Total=59, Max=36, Min=0
+61. Category='Kursus Pengkhususan', Name='Penjagaan Luka', Total=30, Max=30, Min=0
+62. Category='Kursus Pengkhususan', Name='Penjagaan Reumatologi', Total=14, Max=14, Min=0

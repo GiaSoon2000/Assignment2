@@ -10,9 +10,6 @@ public class Main {
         File diploma = new File("diploma.csv");
 
         int index = 0;
-        int totalSum = 0;
-        int maxIntake = Integer.MIN_VALUE;
-        int minIntake = Integer.MAX_VALUE;
 
         if (diploma.exists()) {
             System.out.println("File exists");
@@ -47,10 +44,6 @@ public class Main {
 
                         diplomaDataList.add(data);
 
-                        totalSum += data.getTotal(); // Calculate the total sum
-                        maxIntake = Math.max(maxIntake, data.getMax()); // Calculate the maximum intake
-                        minIntake = Math.min(minIntake, data.getMin()); // Calculate the minimum intake
-
                         System.out.println(data);
                     }
                     index++;
@@ -68,11 +61,6 @@ public class Main {
                 writeDataToFile(diplomaLanjutanList, "diploma_lanjutan.txt");
                 writeDataToFile(kursusPengkhususanList, "kursus_pengkhususan.txt");
 
-                // Print to console
-                System.out.println("\nThe sum of intakes from the year 2014 to 2019 is " + totalSum);
-                System.out.println("The maximum number of intakes between the year 2014 to 2019 is " + maxIntake);
-                System.out.println("The minimum number of intakes between the year 2014 to 2019 is " + minIntake);
-
             } catch (FileNotFoundException exception) {
                 System.out.println(exception.getMessage());
             }
@@ -83,7 +71,7 @@ public class Main {
     }
 
     private static void writeDataToFile(List<DiplomaData> dataList, String fileName) {
-        try (PrintWriter writer = new PrintWriter(new File(fileName))) {
+        try (PrintWriter writer = new PrintWriter(fileName)) {
             for (DiplomaData data : dataList) {
                 writer.println(data.toString());
             }
